@@ -1,4 +1,4 @@
-![Typing animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 # 👋 Hi, I'm Saikal Abdibalieva  
 ### Python Backend Developer | ICT4Girls Graduate | Razzakov, Kyrgyzstan
